@@ -2,7 +2,7 @@
 const recommendationCard = [
   {
     id: 0,
-    name: 'Kehinde Omotosh',
+    name: 'Kehinde Omotosho',
     image: "images/kehinde.jpeg",
     designation: 'Technical Team Lead at PayAza',
     view: "Hey everyone! I wanted to take a moment to recommend Temitope for any Java opportunities. I had the pleasure of mentoring him on multiple projects where he showcased a strong understanding of Java and Spring concepts and delivered high-quality code. He consistently demonstrated a willingness to learn and grow, and his enthusiasm for tackling new challenges was contagious. Temitope is a reliable and dedicated team member who would be a great asset to any development team. Highly recommended! 👍! 🌟",
