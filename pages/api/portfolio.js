@@ -44,9 +44,9 @@ const portfolio = [
     {
         id: 2,
         projectName: "CSDC ",
-        url: "https://jmm.ltd/",
-        image: "projects/jmm.png",
-        projectDetail: "JMM Technologies is a start-up turned technology company with extensive years of experience delivering digital solutions. As a fast-growing tech firm, we help diverse businesses and organizations. Our expertise in innovative, state-of-the-art digital services accelerates business growth and enhances customer impact.",
+        url: "https://csdcconsulting.com/",
+        image: "projects/csdc.png",
+        projectDetail: "CSDC Consulting a customer-focused software and tax consultancy agency that provides tailor made, cutting edge software solutions, which enable organizations transform the way they work and provide value to their customers.",
         technologiesUsed: [
             {
                 tech: "ReactJS"
@@ -66,23 +66,35 @@ const portfolio = [
         ]
     },
     {
-        id: 0,
-        projectName: "ALSN",
-        url: "https://alsn.app/",
-        image: "projects/alsn.png",
-        projectDetail: "ASLN drives digital transformation with certified document translation services. In an interconnected world where seamless communication is imperative, they are strategically positioned to cater to the needs of businesses, individuals, and organizations.",
+        id: 3,
+        projectName: "TeeKayBanks",
+        url: "https://tbanks7.github.io/TeeKayBankyz/",
+        image: "projects/teekaybanks.png",
+        projectDetail: "TeeKayBanks is an eco-friendly focused Bottling company, intent on recycling and keeping the enviroment green. We provide custom label water bottles as well as water distribution services for events of all sizes, from small gatherings to large festivals.",
         technologiesUsed: [
             {
-                tech: "ReactJS"
+                tech: "HTML"
             },
             {
-                tech: ".net"
+                tech: "CSS"
             },
             {
-                tech: "REST API's"
+                tech: "JavaScript"
+            },
+        ]
+    },
+    {
+        id: 4,
+        projectName: "Possession Timer",
+        url: "https://possession-timer.vercel.app/possession",
+        image: "projects/possessiontimer.png",
+        projectDetail: "Small application to keep track of both football teams possession stats in real time.",
+        technologiesUsed: [
+            {
+                tech: "NextJS"
             },
             {
-                tech: "Ant Design"
+                tech: "JavaScript"
             },
             {
                 tech: "TailwindCSS"
@@ -90,71 +102,17 @@ const portfolio = [
         ]
     },
     {
-        id: 0,
-        projectName: "FirmSanad",
-        url: "/domain-expired",
-        image: "projects/firmsanad.png",
-        projectDetail: "Invest in Saudi Arabia, Streamline Your Business Setup Process in Saudi Arabia with FirmSanad Simplify the process of obtaining licenses and starting a business in Saudi Arabia with our streamlined platform.",
+        id: 5,
+        projectName: "Travel Camp",
+        url: "https://travel-camp-henna.vercel.app/",
+        image: "projects/travelcamp.png",
+        projectDetail: "Travel camp ",
         technologiesUsed: [
             {
-                tech: "ReactJS"
+                tech: "Nextjs"
             },
             {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "Fateh Al Mustaqbil",
-        url: "https://fatehtour.com/",
-        image: "projects/fateh.png",
-        projectDetail: "Fateh Al Mustaqbil is a one-of-a-kind travel agency designed to cater to the interests of travelers across the globe, founded in 2023 in Riyadh, Saudi Arabia. Their expertise lies in crafting exceptional journeys tailored to each client's unique requirements, whether it be ticketing, hotel bookings, or visa assistance.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "Tojjar",
-        url: "/domain-expired",
-        image: "projects/tojjar.png",
-        projectDetail: "Tojjar is ecommerce website,  where you can open your own store and sell products of different brands!",
-        technologiesUsed: [
-            {
-                tech: "Nextjs with SSR"
-            },
-            {
-                tech: "Laravel"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
+                tech: "Typescript"
             },
             {
                 tech: "TailwindCSS"

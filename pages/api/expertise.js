@@ -2,27 +2,27 @@ const expertise = [
     {
         id: 0,
         title: 'Full Stack Development',
-        desc: 'I am a skilled MERN stack developer with extensive experience in building robust web applications using MongoDB, Express.js, React.js, and Node.js. I possess a strong understanding of server-side rendering, API integration, and database management. With my expertise, I can deliver dynamic and efficient web solutions tailored to meet the unique requirements of clients.',
+        desc: 'I am a skilled Full Stack Developer with experience in frontend and backend technologies. I Primarily use PERN stack but I am proficient in HTML, CSS, JavaScript, React JS, NextJS for frontend and NodeJS, Express for backend and Various SQL and NoSQL tools for database. I have developed and maintained web applications with serverside rendering, optimized database queries, and integrated third-party APIs.',
     },
     {
         id: 1,
         title: 'Java Development',
-        desc: 'I am proficient in using design software such as Figma, Adobe XD, and Adobe Illustrator. Through participating in hackathons and freelance work, I have gained practical experience in UI/UX design and graphic design. Designing is my passion, and it has allowed me to continue to develop my creative skills and grow in the field.',
+        desc: 'I am proficient in Java development and have extensive experience using the Spring and Spring Boot frameworks. Through my previous jobs, I have gained practical experience in building RESTful APIs, integrating third-party services, and optimizing database queries. My passion for backend development drives me to stay updated with the latest advancements in Java and Spring technologies, allowing me to develop efficient and scalable software solutions.',
     },
     {
         id: 2,
         title: 'Data Analytics',
-        desc: "As a developer, I'm proficient in Jira and Scrum methodologies. I use Jira to simplify project management tasks like task assignment, prioritization, and progress tracking. Scrum has improved my teamwork, utilizing daily stand-ups, sprint planning, and retrospectives. My expertise ensures high-quality software products are delivered promptly.",
+        desc: "I am proficient in data science and analysis, with experience using Python, R, and SQL for data manipulation and analysis. Through my academic and professional projects, I have developed skills in statistical analysis, machine learning, and data visualization. My passion for uncovering insights from data drives me to stay updated with the latest tools and techniques in the field, enabling me to make data-driven decisions and provide actionable insights.",
     },
     {
         id: 3,
         title: 'Github',
-        desc: "GitHub is essential for version control and collaboration. Its intuitive interface and features like pull requests and issue tracking simplify the process. Continuous integration ensures up-to-date code. GitHub is vital to my success as a developer.",
+        desc: "I am proficient in version control using Git and GitHub. I have experience with branching, merging, and pull requests, and I am skilled in managing repositories and collaborating on code with teams. My familiarity with Git workflows ensures efficient version management and smooth integration of code changes. GitHub is vital to my success as a developer.",
     },
     {
         id: 4,
         title: 'Cloud Computing',
-        desc: "Open Source is the future. I usually take some time on weekend and contribute into opensource project. It gives me opportunity to learn from best developer's practices and also gives me a chance to help others and contribute into the community for the good.",
+        desc: "I am experienced with AWS, including services like EC2, S3, RDS, and Lambda. I have utilized AWS for deploying, managing, and scaling applications, ensuring high availability and performance. My passion for cloud technology drives me to stay updated with AWS best practices and continually enhance my skills in cloud infrastructure and solutions.",
     },
 ]
 

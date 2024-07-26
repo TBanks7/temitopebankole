@@ -27,7 +27,7 @@ function Background() {
                             <div className="">
                                 <div className=" py-4 font-cascadia-normal text-Snow pb-4 text-xs h-20 lg:h-auto">
                                     <p className="text-Snow sm:text-xl xl:text-2xl font-bold">
-                                        I am a  
+                                        
                                     </p>
                                 </div>
                             </div>
