@@ -1,6 +1,8 @@
 import { AiFillCopyrightCircle } from 'react-icons/ai'
 import { MdMail } from 'react-icons/md'
 import { AiOutlineWhatsApp } from 'react-icons/ai'
+import { CONTACTS } from '../constants/constants'
+import Link from 'next/link'
 
 const Footer = () => {
     return (
@@ -19,7 +21,7 @@ const Footer = () => {
                     <div className="mr-1 text-base">
                         <MdMail />
                     </div>
-                    <div>tbanks200110@gmail.com</div>
+                    <Link href={`mailto:${CONTACTS.EMAIL}`}>{CONTACTS.EMAIL}</Link>
                 </div>
             </div>
         </div>

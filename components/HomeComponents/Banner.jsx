@@ -20,8 +20,10 @@ const Banner = () => {
                                             <Typewriter
                                                 options={{
                                                     strings:
-                                                        ['PERN Stack Developer',
-                                                            'Java Developer'],
+                                                        ['Full Stack Developer',
+                                                            'Java Developer',
+                                                            'Data Scientist'
+                                                        ],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}
@@ -30,11 +32,10 @@ const Banner = () => {
                                         </span> {"</"}<span className="text-Blue sm:text-base xl:text-lg font-bold">div</span>{">"} </span>
                                 </div>
                             </div>
-                            <Link href='/osamajavaid-resume.pdf' target='_blank' spy={true} smooth={true} duration={5} offset={-50} className="button">Download Resume</Link>
+                            <Link href='/temitopebankoleresume.pdf' target='_blank' spy={true} smooth={true} duration={5} offset={-50} className="button">Download Resume</Link>
                         </div>
                         <div className="w-96 h-52 relative hidden md:block">
                             <Image src='/images/emoji3.png' width={800} height={800} alt='emoji' className='absolute' />
-                            {/* <img className='absolute top-8 w-full h-full' src="images/emoji3.png" alt="emoji" /> */}
                         </div>
                     </div>
                 </div>

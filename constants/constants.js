@@ -1,6 +1,6 @@
 export const NAME = 'Temitope Bankole';
 
-export const DESIGNATION = `PERN Stack Developer | Java Developer | Tech Blogger`;
+export const DESIGNATION = `Full Stack Developer | Java Developer | Tech Blogger`;
 
 export const DETAILS = {
   Residence: 'Canada',

@@ -1,7 +1,10 @@
 import { ImCross } from 'react-icons/im'
 import { FiAward } from 'react-icons/fi'
 import { FaBook, FaHandshake } from 'react-icons/fa'
+import { GrArticle, GrCertificate } from "react-icons/gr";
+import { TbCertificate } from "react-icons/tb";
 import { ImHome } from 'react-icons/im'
+import { HiOutlineNewspaper } from "react-icons/hi2";
 import { HiIdentification } from 'react-icons/hi'
 import NavItem from './NavItem'
 import DrawerLayout from '../DrawerLayout'
@@ -18,8 +21,8 @@ const Nav = ({ setIsOpen, isOpen }) => {
                     <NavItem setIsOpen={setIsOpen} NavRoute={'/'} NavIcon={<ImHome />} NavText={'Home'} />
                     <NavItem setIsOpen={setIsOpen} NavRoute={'/background'} NavIcon={<HiIdentification />} NavText={'About'} />
                     <NavItem setIsOpen={setIsOpen} NavRoute={'/portfolio'} NavIcon={<FiAward />} NavText={'Portfolio'} />
-                    <NavItem setIsOpen={setIsOpen} NavRoute={'/article'} NavIcon={<FaBook />} NavText={'Articles'} />
-                    <NavItem setIsOpen={setIsOpen} NavRoute={'/certification'} NavIcon={<FaHandshake />} NavText={'Certifications'} />
+                    <NavItem setIsOpen={setIsOpen} NavRoute={'/article'} NavIcon={<HiOutlineNewspaper/>} NavText={'Articles'} />
+                    <NavItem setIsOpen={setIsOpen} NavRoute={'/certification'} NavIcon={<TbCertificate />} NavText={'Certifications'} />
                     <NavItem setIsOpen={setIsOpen} NavRoute={'/contact'} NavIcon={<FaHandshake />} NavText={'Contact'} />
                 </div>
             </div>

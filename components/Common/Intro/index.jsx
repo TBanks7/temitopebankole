@@ -1,5 +1,6 @@
 import Link from 'next/link';
-import { FaDownload, FaFacebook, FaGithub, FaLinkedin, FaMedium, FaTwitter } from 'react-icons/fa';
+import { FaDownload, FaFacebook, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
+import { FaMedium } from "react-icons/fa6";
 import Contact from './Contact';
 import Download from './Download';
 import Languages from './Languages';
